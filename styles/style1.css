@@ -29,3 +29,39 @@ a{
     border: none;
     border-radius: 20px;
 }
+
+/* navbar ended */
+
+/* slider started */
+
+.slider-img{
+    width: 100%;
+}
+
+/* slider ended */
+
+/* section1 started */
+
+.sec1{
+    margin: 70px 15px;
+}
+
+.container1{
+    padding: 0px 15px;
+    margin: opx 200px;
+}
+
+.item1-head{
+    font-size: 40px;
+    margin: 0px 0px 8px;
+    line-height: 1.1;
+}
+
+.snp{
+    font-size: 52px;
+}
+.item1-para{
+    font-size: 16px;
+    margin: 0px 0px 40px;
+}
+/* section1 ended */
