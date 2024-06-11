@@ -42,26 +42,18 @@ a{
 
 /* section1 started */
 
-.sec1{
-    margin: 70px 15px;
-}
-
-.container1{
-    padding: 0px 15px;
-    margin: opx 200px;
-}
-
-.item1-head{
-    font-size: 40px;
-    margin: 0px 0px 8px;
-    line-height: 1.1;
-}
-
 .snp{
-    font-size: 52px;
+    font-size: 5.2rem;
+}
+.item1{
+    margin-top: 50px;
+}
+.item1-head{
+    font-size: 4rem;
+    line-height: 1.3;
 }
 .item1-para{
-    font-size: 16px;
-    margin: 0px 0px 40px;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
 }
 /* section1 ended */

@@ -265,6 +265,22 @@ html{
 .bg-dark{
     background-color: #000000;
 }
+.bg-light{
+    background-color: #ffffff;
+}
 .text-white{
     color: #ffffff;
+}
+.radius-5{
+    border-radius: 5px;
+}
+
+/* buttons */
+
+.ordernow{
+    background-color: #000000;
+    border: 1px solid #ffffff;
+    color: #ffffff;
+    border-radius: 30px;
+    font-size: 1.5rem;
 }
