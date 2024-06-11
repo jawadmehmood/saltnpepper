@@ -45,11 +45,11 @@ a{
 .item1{
     margin-top: 50px;
 }
-.item1-head{
+.head1{
     font-size: 4rem;
     line-height: 1.3;
 }
-.item1-para{
+.para1{
     font-size: 1.5rem;
     letter-spacing: 1px;
 }
@@ -62,10 +62,20 @@ a{
     background-color: #0f0f0f;
 }
 .head2{
-    font-size: 40px;
+    font-size: 4rem;
 }
 .para2{
     font-size: 1.5rem;
     letter-spacing: 1px;
 }
+
 /* section2 ended */
+
+/* section3 started */
+
+.head3{
+    font-size: 4rem;
+}
+
+
+/* section3 ended */
