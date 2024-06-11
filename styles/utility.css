@@ -36,6 +36,12 @@ html{
 .gap-25{
     gap: 25px;
 }
+.justify-end{
+    justify-content: end;
+}
+.flex-basis{
+    flex-basis: 30%;
+}
 /* flex classes ended */
 
 
@@ -282,5 +288,55 @@ html{
     border: 1px solid #ffffff;
     color: #ffffff;
     border-radius: 30px;
+    font-size: 1.5rem;
+}
+
+.getdirections{
+    background-color: transparent;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 30px;
+    font-size: 1.5rem;
+}
+.getdirections:hover{
+    cursor: pointer;
+}
+.ordernow:hover{
+    cursor: pointer;
+}
+
+/* buttons */
+
+/* icons */
+
+.rarrow{
+    border: 1px;
+    color: #dc3545;
+    background-color: #ffffff;
+    border-radius: 15px;
+}
+
+/* icons */
+
+.pos-abs{
+    position: absolute;
+}
+
+.city{
+    color: #df181f;
+    font-size: 1.4rem;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+.snp{
+    font-size: 5.2rem;
+}
+
+.snp-sm{
+    font-size: 3rem;
+}
+
+.font{
     font-size: 1.5rem;
 }

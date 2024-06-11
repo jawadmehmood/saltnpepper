@@ -42,9 +42,6 @@ a{
 
 /* section1 started */
 
-.snp{
-    font-size: 5.2rem;
-}
 .item1{
     margin-top: 50px;
 }
@@ -56,4 +53,19 @@ a{
     font-size: 1.5rem;
     letter-spacing: 1px;
 }
+
 /* section1 ended */
+
+/* section2 started */
+
+.section2{
+    background-color: #0f0f0f;
+}
+.head2{
+    font-size: 40px;
+}
+.para2{
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+}
+/* section2 ended */
