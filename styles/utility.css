@@ -298,7 +298,19 @@ html{
     border-radius: 30px;
     font-size: 1.5rem;
 }
+
+.getdirectionsgreen{
+    background-color: #28a745;
+    color: #ffffff;
+    border: none;
+    border-radius: 30px;
+    font-size: 1.5rem;
+}
+
 .getdirections:hover{
+    cursor: pointer;
+}
+.getdirectionsgreen:hover{
     cursor: pointer;
 }
 .ordernow:hover{
@@ -312,6 +324,12 @@ html{
 .rarrow{
     border: 1px;
     color: #dc3545;
+    background-color: #ffffff;
+    border-radius: 15px;
+}
+.rarrowgreen{
+    border: 1px;
+    color: #28a745;
     background-color: #ffffff;
     border-radius: 15px;
 }
@@ -342,4 +360,14 @@ html{
 
 .font{
     font-size: 1.5rem;
+}
+
+/* opening soon card */
+
+.openingsoon{
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 1.5rem;
+    padding: 10px 70px;
+    border-radius: 4px;
 }

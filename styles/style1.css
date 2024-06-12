@@ -79,3 +79,25 @@ a{
 
 
 /* section3 ended */
+
+/* section4 started */
+
+.section4{
+    background-color: #0f0f0f;
+}
+.head4{
+    font-size: 4rem;
+    letter-spacing: 3px;
+    line-height: 1.3;
+}
+
+/* section4 ended */
+
+/* section5 started */
+
+.head5{
+    font-size: 4rem;
+    line-height: 1.3;
+}
+
+/* section5 ended */
