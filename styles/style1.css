@@ -101,3 +101,15 @@ a{
 }
 
 /* section5 ended */
+
+/* section6 started */
+
+.head6{
+    font-size: 4rem;
+}
+
+/* section6 ended */
+
+footer{
+    background-color: #0f0f0f;
+}

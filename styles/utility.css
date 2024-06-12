@@ -30,6 +30,9 @@ html{
 .item-center{
     align-items: center;
 }
+.item-start{
+    align-items: start;
+}
 .flex-column{
     flex-direction: column;
 }
@@ -277,6 +280,9 @@ html{
 .text-white{
     color: #ffffff;
 }
+.text-black{
+    color: #000000;
+}
 .radius-5{
     border-radius: 5px;
 }
@@ -313,9 +319,10 @@ html{
 .getdirectionsgreen:hover{
     cursor: pointer;
 }
-.ordernow:hover{
+.ordernow:hover , .order:hover , .franchise:hover{
     cursor: pointer;
 }
+
 
 /* buttons */
 
