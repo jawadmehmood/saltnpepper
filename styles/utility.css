@@ -340,6 +340,14 @@ html{
     background-color: #ffffff;
     border-radius: 15px;
 }
+.social{
+    border: 1px;
+    color: #ffffff;
+    background-color: #ed1c24;
+    padding: 12px 15px;
+    border-radius: 35px;
+    font-size: 1.5rem;
+}
 
 /* icons */
 
