@@ -9,4 +9,21 @@ main{
 
 p{
     letter-spacing: 0.4px;
+    line-height: 1.3;
 }
+
+/* section1 started */
+
+.sec1{
+    margin: 0px 0px 32px;
+}
+
+/* section1 ended */
+
+/* section2 started */
+
+.sec2{
+    margin: 32px 0px 70px;
+}
+
+/* section2 ended */
