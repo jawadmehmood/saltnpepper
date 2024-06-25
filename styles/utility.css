@@ -386,3 +386,38 @@ html{
     padding: 10px 70px;
     border-radius: 4px;
 }
+
+/* navbar started */
+
+.nav-text{
+    font-size: 1.5rem;
+}
+
+.franchise{
+    background-color: #000000;
+    border: 1px solid #ffffff;
+    color: #ffffff;
+    border-radius: 30px;
+}
+
+.order{
+    background-color: #ed1c24;
+    color: #ffffff;
+    border: none;
+    border-radius: 30px;
+}
+
+.arrow-icon{
+    color: #dc3545;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 20px;
+}
+
+/* navbar ended */
+
+/* border */
+
+.border-bottom{
+    border-bottom: 1px solid #141414;
+}
